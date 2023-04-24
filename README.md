@@ -5,7 +5,7 @@
 Le projet consiste en un jeu de bataille navale développé en C avec Visual Studio Community 2022 et est compilé sous Windows. Il est sous licence GNU General Public License (GPL) et a été développé par Aras Muhamet-Emre.
 
 =======================================Installation======================================
-      Clonez le projet à partir du dépôt GitHub.
+- Clonez le projet à partir du dépôt GitHub.
 
 =======================================Utilisation=======================================
 - Compilez le projet en utilisant Visual Studio Community 2022 ou en utilisant la commande msbuild dans le répertoire racine du projet.
